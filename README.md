@@ -6,3 +6,10 @@ Run the program first by running the follwing command line in the shell:
 $ ./credit
 
 Then you'll be asked to enter your credit card number upon which the program will output the result. 
+
+Example: 
+$ ./credit
+Number: 4003-6000-0000-0014
+Number: foo
+Number: 4003600000000014
+VISA
